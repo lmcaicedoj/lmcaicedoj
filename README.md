@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi I'm Luis Miguel Caicedo 
 
-<!--
-**lmcaicedoj/lmcaicedoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I love to play with data, dedicated and very curiuos . Excellent organizational skills. Ready to help and work hard.
 
-Here are some ideas to get you started:
+I love to travel around the world ✈️, work with different people from different cultures, 🍝 and live unforgettable experiences 🍻.
+I have lived in USA 🗽, China 🍊, Chile 🏔️, India 🚆, Costa Rica 🏖️ and Colombia ☕.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently looking for an Entry Level Data Analyst position.
+
+## Find me around the web 🌎:
+- Personal email: **lmcaiced@gmail.com**
+- Sharing updates on <a href="https://www.linkedin.com/in/lmcaiced/">LinkedIn</a> 💼
+
+![](qn7cn2.gif)
