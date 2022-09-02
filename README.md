@@ -12,4 +12,4 @@ I'm currently looking for an Entry Level Data Analyst position.
 - Personal email: **lmcaiced@gmail.com**
 - Sharing updates on <a href="https://www.linkedin.com/in/lmcaiced/">LinkedIn</a> 💼
 
-![](qn7cn2.gif)
+![qn7cn2](https://user-images.githubusercontent.com/89747788/188034992-44b197d1-482d-4dbf-b3e2-63885a885cd0.gif)
