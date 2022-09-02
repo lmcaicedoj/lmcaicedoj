@@ -1,7 +1,7 @@
 # Hi I'm Luis Miguel Caicedo 
 
 ## 🚀 About Me
-I love to play with data, dedicated and very curiuos . Excellent organizational skills. Ready to help and work hard.
+I love to play with data, dedicated and very curiuos . Excellent organizational skills. Ready to help and work in a team.
 
 I love to travel around the world ✈️, work with different people from different cultures, 🍝 and live unforgettable experiences 🍻.
 I have lived in USA 🗽, China 🍊, Chile 🏔️, India 🚆, Costa Rica 🏖️ and Colombia ☕.
