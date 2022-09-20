@@ -6,7 +6,7 @@ I love to play with data, dedicated and very curiuos . Excellent organizational 
 I love to travel around the world ✈️, work with different people from different cultures, 🍝 and live unforgettable experiences 🍻.
 I have lived in USA 🗽, China 🍊, Chile 🏔️, India 🚆, Costa Rica 🏖️ and Colombia ☕.
 
-I'm currently looking for a Data Analyst position.
+I'm currently looking for a Data Analyst or Data Engineer position.
 
 ## Find me around the web 🌎:
 - Personal email: **lmcaiced@gmail.com**
