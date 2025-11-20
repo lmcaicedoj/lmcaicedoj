@@ -1,12 +1,11 @@
 # Hi I'm Luis Miguel Caicedo 
 
 ## 🚀 About Me
-I love to play with data, dedicated and very curiuos . Excellent organizational skills. Ready to help and work in a team.
+I am a Data Engineer and Analytics professional with a strong track record in designing, building, and scaling data pipelines that support both operational and strategic decision-making in complex enterprise environments. With experience leading multi-system integrations, cloud-native architectures, and high-governance data workflows, I focus on transforming fragmented, legacy data ecosystems into reliable, observable, and high-quality data products.
 
-I love to travel around the world ✈️, work with different people from different cultures, 🍝 and live unforgettable experiences 🍻.
-I have lived in USA 🗽, China 🍊, Chile 🏔️, India 🚆, Costa Rica 🏖️ and Colombia ☕.
+Beyond my enterprise work, I’m academically driven. I hold an MSc in Data Science & Analytics and have participated in research and educational initiatives worldwide—including collaborations on biogas energy modeling and teaching roles in China. I am also developing Bio-Tesseract, a venture that blends analytics, sustainability, and education.
 
-Looking for learning and working opportunities as a Data Analyst or Data Engineer.
+I bring a global mindset, a strong sense of curiosity, and a reputation for being dependable, thorough, and solution-oriented. With interests in cloud engineering, pipeline orchestration, data quality, and sustainable technology, I continue to grow as a data engineer prepared to take on high-impact, multi-country data challenges.
 
 ## Find me around the web 🌎:
 - Personal email: **lmcaiced@gmail.com**
